@@ -1,0 +1,5 @@
+﻿Сборка начата…
+1>------ Сборка начата: проект: Project2, Конфигурация: Debug Win32 ------
+1>Project2.cpp
+1>Project2.vcxproj -> C:\Projects\Homework\HW26-Вектр\Projekt1\Debug\Project2.exe
+========== Сборка: успешно: 1, с ошибками: 0, без изменений: 0, пропущено: 0 ==========
